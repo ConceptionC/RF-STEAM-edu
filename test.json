@@ -1,0 +1,197 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/S__9928716-scaled.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "徐秀梅 記帳士",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "🌟第一屆專業代理人考試合格\n🌟宇正會計稅務記帳士事務所負責人\n🌟北科大中小企業財務管理顧問培訓班\n🌟桃園市記帳士公會第一屆財務長\n🌟桃園市記帳士公會歷屆監事.理事"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "聯絡電話",
+              "uri": "tel:+886930072180"
+            },
+            "style": "primary",
+            "color": "#C48888",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "加我的Line",
+              "uri": "https://line.me/ti/p/kqLGBGhpxw"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/S__9928719-scaled.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "宇正會計稅務記帳士事務所",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "🌟民國92年設立\n🌟桃園客戶為主(服務範圍遍及全國)\n🌟公司/工廠/行號~營業登記\n🌟營利事業各項稅務申報諮詢.帳務處理\n🌟人民團體/財(社)團法人登記"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "FB-徐秀梅",
+              "uri": "https://www.facebook.com/people/%E5%BE%90%E7%A7%80%E6%A2%85/100041885714620"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "宇正粉絲專頁",
+              "uri": "https://www.facebook.com/%E5%AE%87%E6%AD%A3%E6%9C%83%E8%A8%88%E7%A8%85%E5%8B%99%E8%A8%98%E5%B8%B3%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80-111644130979788/"
+            },
+            "style": "primary",
+            "color": "#AD5A5A",
+            "margin": "md",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "公司網站",
+              "uri": "https://conceptionseo.com/show-may"
+            },
+            "style": "primary",
+            "color": "#C48888",
+            "height": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line3block.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "協助創業/展店",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "🌟中原大學企業管理系畢業(輔修會計)\n🌟宇正企業管理顧問有限公司負責人\n🌟宇姐~創業&稅務(Youtube)\n🌟服務上千家企業主\n🌟專精企業五大管理的[財務管理]"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "IG-徐秀梅",
+              "uri": "https://instagram.com/yuzen.leader?igshid=vf3ztpoc5nn6"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "分享給好友",
+              "uri": "https://lin.ee/HaTLf5B"
+            },
+            "style": "primary",
+            "color": "#AD5A5A",
+            "margin": "md",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Youtube短片",
+              "uri": "https://conceptionseo.com/show-may-youtube"
+            },
+            "color": "#C48888",
+            "style": "primary",
+            "height": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
