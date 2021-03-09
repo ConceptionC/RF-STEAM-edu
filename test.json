@@ -5,9 +5,8 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222664119.jpg",
-        "size": "full",
-        "margin": "none"
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222731309.jpg",
+        "size": "full"
       },
       "body": {
         "type": "box",
@@ -15,7 +14,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "許瑞富",
+            "text": "泰允教育團隊",
             "color": "#aaaaaa",
             "size": "xl"
           },
@@ -24,7 +23,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟泰允創意有限公司負責人\n🌟台灣優良廠商設計協會理事\n🌟玩具工會理事/STEAM主任委員\n🌟國際貿易、市場開發顧問、大學業\n🌟國小課後社團講師、教師研習講師"
+            "text": "🌟教師研習(國小~大學) \n🌟課後社團、寒暑假課程規劃 \n🌟才藝班、安親班課程規劃\n🌟寒暑假營隊\n🌟企業結合與活動規劃"
           }
         ]
       },
@@ -36,19 +35,19 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "聯絡電話",
-              "uri": "tel:+886928804086"
+              "label": "STEAM教育簡介(PDF)",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/03/TaU.pdf"
             },
-            "style": "primary",
             "color": "#66B3FF",
+            "style": "primary",
             "height": "sm"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "Line ID",
-              "uri": "https://line.me/ti/p/PIoFw57pGg"
+              "label": "Line@",
+              "uri": "https://lin.ee/wSijCOM"
             },
             "style": "primary",
             "color": "#0080FF",
@@ -59,8 +58,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "個人簡介",
-              "uri": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222114510.jpg"
+              "label": "公司電話",
+              "uri": "tel:+88633566818"
             },
             "style": "primary",
             "color": "#004B97",
@@ -142,8 +141,9 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222731309.jpg",
-        "size": "full"
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222664119.jpg",
+        "size": "full",
+        "margin": "none"
       },
       "body": {
         "type": "box",
@@ -151,7 +151,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "泰允教育團隊",
+            "text": "許瑞富",
             "color": "#aaaaaa",
             "size": "xl"
           },
@@ -160,7 +160,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟教師研習(國小~大學) \n🌟課後社團、寒暑假課程規劃 \n🌟才藝班、安親班課程規劃\n🌟寒暑假營隊\n🌟企業結合與活動規劃"
+            "text": "🌟泰允創意有限公司負責人\n🌟台灣優良廠商設計協會理事\n🌟玩具工會理事/STEAM主任委員\n🌟國際貿易、市場開發顧問、大學業\n🌟國小課後社團講師、教師研習講師"
           }
         ]
       },
@@ -172,19 +172,19 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "STEAM教育簡介(PDF)",
-              "uri": "https://conceptionseo.com/wp-content/uploads/2021/03/TaU.pdf"
+              "label": "聯絡電話",
+              "uri": "tel:+886928804086"
             },
-            "color": "#66B3FF",
             "style": "primary",
+            "color": "#66B3FF",
             "height": "sm"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "Line@",
-              "uri": "https://lin.ee/wSijCOM"
+              "label": "Line ID",
+              "uri": "https://line.me/ti/p/PIoFw57pGg"
             },
             "style": "primary",
             "color": "#0080FF",
@@ -195,8 +195,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "公司電話",
-              "uri": "tel:+88633566818"
+              "label": "個人簡介",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/03/1615222114510.jpg"
             },
             "style": "primary",
             "color": "#004B97",
